@@ -1,0 +1,16 @@
+{
+  "name": "hexo-obsidian-link",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "homepage": "https://github.com/",
+  "description": "Hexo plugin to transfer obsidian link to post link",
+  "main": "index.js",
+  "author": "Awoo Chen",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
